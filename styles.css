@@ -1,3 +1,18 @@
-span {
-    color: white;
+body {
+    color:royalblue
+  }
+  a:link {
+    color: red;
+  }
+  
+  a:active {
+    color: pink;
+  }
+  
+  a:hover {
+    color: gray;
+  }
+  
+  a:visited {
+    color: green;
   }
