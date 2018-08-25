@@ -25,6 +25,7 @@ body {
   #social{position:absolute;
           top: 5%;
           left:90%;
+          display:inline-block;
           }
 
   #mail,#phone,#insta,#fb {
@@ -32,3 +33,7 @@ body {
     width:20%;
   
   }
+
+    #about{
+      
+    }
