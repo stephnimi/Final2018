@@ -1,5 +1,6 @@
 body {
-    color:royalblue
+    color: gray;
+    font-family: Arial;
     }
     div {
       background-color:white;
@@ -25,15 +26,10 @@ body {
   #social{position:absolute;
           top: 5%;
           left:90%;
-          display:inline-block;
+              
           }
 
   #mail,#phone,#insta,#fb {
     height:20%;
     width:20%;
-  
-  }
-
-    #about{
-      
     }
