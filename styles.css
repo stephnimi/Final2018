@@ -1,6 +1,7 @@
-body {
+body
+{
     color: gray;
-    font-family: Arial;
+    font-family: Arial, Helvetica, sans-serif;
     }
     div {
       background-color:white;
